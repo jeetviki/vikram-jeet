@@ -10,7 +10,7 @@
 #   test:
 #     runs-on: ubuntu-latest
 #     steps:
-#       - name: 24ds2000024@ds.study.iitm.ac.in
+#       - name: Checkout code
 #         uses: actions/checkout@v3
 
 #       - name: 24ds2000024@ds.study.iitm.ac.in
